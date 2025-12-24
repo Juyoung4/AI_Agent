@@ -1,0 +1,616 @@
+DOI: 10.5389/KSAE.2011.53.4.037
+기후변화가 논 필요수량에 미치는 영향
+Climate Change Impacts on Paddy Water Requirement
+윤동균*
+정상옥**,
+김성준***
+Yun, Dong Koun*
+Chung, Sang Ok**,
+Kim, Seong Joon***
+ABSTRACT
+The aim of the study is to predict potential evapotranspiration and crop water requirement using meteorological data from MIROC3.2 
+with A1B scenario. Increase of evapotranspiration due to temperature rise can be observed out of the analysis, while effective rainfall 
+decreased. The evapotranspiration elevation results in large amount of crop water requirement in the paddy farming. It can be seen 
+that rainfall intensification at non-irrigation period brings effective rainfall decrease, while contributes to higher demand of crop water 
+at irrigation period. It is necessary to secure additional water resources to adapt the climate change. It is expected that estimation on 
+potentialevapotranspiration in this study can be used for formulation of master plan of water resources.
+Keywords: Climate change; GCM; LARS-WG; Change Factor; paddy rice; water requirement
+I. 서
+론*
+산업혁명 이후 과학기술의 급진적인 발전과 산업화로 인류의 
+삶의 질은 급속도로 향상된 반면, 생태계의 파괴와 환경악화로 
+인한 피해가 급증하고 있다. 화석연료 (석탄, 석유, 가스)의 연
+소로 인한 온실가스 (이산화탄소, 메탄, 일산화질소 등) 농도 증
+가는 지구온난화를 가속시켜 이로 인해 지구 곳곳의 기후를 변
+화시킴으로써, 인류사회와 자연생태계에 많은 영향을 미치고 있
+다. 이러한 기후변화가 지구환경에 미치는 영향의 중요성이 구
+체적으로 인식됨에 따라 선진국들은 기후변화 문제를 21세기에 
+최우선적으로 해결해야 할 문제로 다루고 있다.
+인간 활동이 기후에 영향을 미치기 시작한 것은 산업 혁명 
+초기인 18세기 중엽부터이며, 1970년부터 2004년 사이에 지
+구 온실가스 배출량은 70 %나 증가하였다. 이로 인한 온실효과 
+(Greenhouse effect)로 지구온난화의 지표인 지구표면온도는 
+지난 100년 동안 (1906～2005) 0.74±0.18 ℃ 상승하였다 
+(IPCC, 2007). 
+*
+한국농어촌공사 농어촌연구원 
+**
+경북대학교 농업생명과학대학 농업토목공학과
+***
+건국대학교 생명환경과학대학 사회환경시스템공학과
+†
+Corresponding author Tel.: +82-53-950-5734
+Fax: +82-53-950-6752
+E-mail: sochung@knu.ac.kr
+2010년 12월 27일 투고
+2011년  6월 13일 심사완료
+2011년  7월 13일 게재확정
+최근 국내에서도 기후변화가 국내 수자원에 미치는 영향에 
+대한 연구는 지속적으로 진행되어 왔으며, Bae et al. (2007)와 
+Jung et al. (2007)은 LARS-WG (Long Ashton Research 
+Shtion - Weather Generator)를 이용하여 유역별 시나리오를 
+생산하고 관측치와 비교하고 이 시나리오에 따라 국내 유출량
+의 변화를 추정하였다. 또한 Hong (2009)은 LARS-WG를 이
+용한 기후변화에 따른 논벼 증발산량을 산정한바 있으며, Chung 
+(2009)은 기후변화가 낙동강 권역의 논 관개용수 수요량에 미
+치는 영향에 관한 연구를 하여 기후변화에 따른 증발산량 추정 
+및 농업수자원 분야에 미치는 영향평가를 시행한바 있다. 이와 
+관련하여 기후벼화에 따른 수자원변화를 예측하기 위하여 많은 
+연구를 진행되고 있으나 현재 농업용저수지 필요수량 변화분석
+은 이루어지고 있지 않은 실정이다. 따라서 본 연구에서는 18,000
+여개의 농업용저수지 중 8개 대상지역을 선정하여 기후변화에 
+따른 증발산량 및 필요수량 변화를 예측하고자 한다.
+II. 재료 및 방법
+1. 대상관측소 및 저수지 선정
+기후변화에 따른 우리나라 농업용수 영향평가를 하기 위해 각 
+도별 대표 관측소를 선정 하였다. 대상 관측소는 증발량을 관측
+하는 관측소, 관측자료가 많이 축척되어 있는 곳, 도심지에서 
+떨어진 곳 등을 고려하여 8개의 대상관측소를 선정하였다.
+대상저수지는 전국 약 18,000여개의 농업용 저수지 중 각 도
+Table 1 Weather stations and reservoirs used in this study
+Region
+Gang-won
+Gyeong-gi
+Gyeong-nam
+Gyeong-buk
+Jeon-nam
+Jeon-buk
+Chung-nam
+Chung-buk
+weather station
+Chun-cheon
+Su-won
+Jin-ju
+Po-hang
+Yeo-su
+Jeon-ju
+Seo-san
+Cheong-ju
+weather data period
+39 (‘70～’08)
+42 (‘67～‘08)
+39 (‘70～’08)
+42 (‘67～‘08)
+42 (‘67～‘08)
+42 (‘67～‘08)
+41 (‘68～‘08)
+42 (‘67～‘08)
+Reservoir
+Won-chang
+Ma-dun
+Nam-seong
+Ma-buk
+Dae-po
+Baek-suk
+Go-pung
+Won-nam
+Basin area (ha)
+1,300 
+1,240 
+392
+1,600 
+1,440 
+10,625 
+2,590 
+3,655 
+Irrigation area (ha)
+305.8 
+529.5 
+72.4 
+650.7 
+260.6 
+374.2 
+1,293.8 
+1,080.0 
+Infiltration (mm/day)
+6.5 
+4.0 
+4.1 
+5.0 
+4.0 
+5.0 
+10.0 
+5.5 
+Conveyance losses (%)
+20.0 
+10.0 
+15.0 
+15.0 
+15.0 
+10.0 
+10.0 
+15.0 
+Active storage capacity (1,000m³)
+3,214 
+3,486
+1,622 
+6,160 
+1,380 
+1,461 
+7,191 
+8,690 
+Completed year
+1990
+1975
+1984
+1999
+1934
+1964
+1975
+1988
+별로 100 만㎥～1,000 만㎥에 해당하는 저수지를 대상으로 하
+였으며, 그 중 농업형태가 과거와 큰 변화가 없는 지역, 관측소 
+인근 저수지, 티센망도, 산간지역, 내용적도의 정확성 등을 고
+려하여 선정하였다. 본 연구에 이용된 기상관측소 및 저수지는 
+Table 1 과 같다.
+2. 기후모형 및 시나리오
+본 연구에서는 총 23개 전지구기후모형 (Global Climate 
+Model, GCM) 중 기상청에서 많이 사용된 4개의 GCMs 
+(MIROC3.2, ECHAM5-OM, HadCM3, ECHO-G)를 선정하였
+으며, 온실가스 배출시나리오는 하나의 특정한 에너지원에 지나
+치게 의존하지 않고 모든 에너지원의 균형사용에 해당하는 A1B
+를 이용하였다. ECHO-G의 경우 우리나라 기상연구소에서 지역
+기후모델 (Regional Climate Model, RCM)로 구축된 MM5 
+(Mesoscale Model Version 5) 기상자료를 이용하였다. 선정된 
+모형의 과거 기상자료를 경기도 수원관측소의 과거 38년 (1971 
+～2008) 기상자료와 비교분석 하한 결과 MIROC3.2가 1,342 
+mm로 수원관측소 1,304 mm와 가장 비슷하게 예측되었으며, 
+나머지 3개 모형의 경우 720 mm～830 mm로 예측되었다. 따
+라서 본 연구에서는 일본에서 개발한 MIROC3.2를 사용하는 것
+으로 결정하였으며, MM5의 경우는 과거자료와는 차이는 있지만 
+우리나라 기상연구소에서 상세화한 기상자료임을 감한하여 본 
+연구에 사용하였다.
+3. 편이보정
+본 연구에서 이용하는 MM5, MIROC3.2 A1B 결과자료들은 
+한 국가와 전 세계의 미래 기후를 모의하지만, 그 값의 정확성
+은 불확실하다. 왜냐하면, 개발한 나라와 얼마나 멀리 위치해 
+있는지 또는 공간해상도가 얼마나 되느냐에 따라 연구대상지역
+에 대한 자료의 정확성이 상이하게 때문이다. 따라서 본 연구
+에서는 Alcamo 등 (1997)이 사용했던 식 (1), 식 (2)와 같은 
+편이보정 (Bias-Correction)법을 이용하여 강우와 기온에 대한 
+편이보정을 실시하여 불확실성을 최소화 하였다.
+′× 
+(1)
+여기서, ′는 보정된 미래 강우량, 는 GCM에서 모
+의된 미래 강우량, 는 과거 30년 (1971～2000) 동안
+의 관측 연평균 강우량, 는 과거 30년 동안 모의된 
+GCM 연평균 강우량을 의미한다.
+′
+(2)
+여기서, ′는 보정된 미래 온도, 는 GCM에서 모
+의된 미래 온도, 는 과거 30년 동안의 관측 연평균 온
+Table 2 The correction of temperature and rainfall climate 
+change scenarios in 8 regions during forecast 
+(1971～2000) weather data
+GCMs
+ECHO-G(RCM-MM5)
+MIROC3.2
+Scenarios
+A1B
+A1B
+ Weather
+Station
+Rainfall
+Temperature (℃)
+Rainfall
+Temperature (℃)
+Chun-cheon
+1.65
+2.98
+0.97
+－1.21
+Su-won
+1.79
+2.98
+1.06
+－1.63
+Seo-san
+1.76
+1.60
+1.04
+－1.72
+Cheong-ju
+1.58
+3.06
+0.94
+－1.19
+Po-hang
+1.32
+5.17
+0.86
+0.58
+Jeon-ju
+1.54
+3.69
+1.07
+－1.24
+Yeo-su
+1.39
+3.43
+1.09
+－1.28
+Jin-ju
+1.55
+3.09
+1.14
+－2.40
+도, 는 과거 30년 동안 모의된 GCM 연평균 온도를 
+의미한다.
+편이보정한 결과 MM5 경우 강우량과 온도가 과거 30년의 
+관측 자료에 비해 일률적으로 과소 추정된 것으로 나타나 강
+우량의 경우 최소 1.32에서 최대 1.79를 곱하여 보정하였으며, 
+기온의 경우 최소 1.60 ℃에서 최대 5.17 ℃를 더해 주어 보
+정 하였다. MIROC3.2의 경우 강우량과 온도가 일률적으로 더 
+크게 추정되어 강우량은 최소 0.97에서 최대 1.14를 곱하여 
+보정하였으며, 기온은 최소 0.58 ℃에서 최대 －2.40 ℃ 만
+큼 더하거나 빼주어 보정하였다. 이 기법에 의해 추출된 강우
+량과 온도에 대한 보정값은 Table 2와 같다. 
+4. 상세화
+기후변화 영향에 대한 정량적 평가를 위해서는 일반적으로 기
+후수치모형인 GCM에서 모의한 기후변화 시나리오별 결과를 사
+용하고 있다. 그러나 GCM모형은 종류가 매우 다양할 뿐만 아
+니라 모형의 특성과 사용된 입력 자료에 따라 모의결과가 상이
+하게 나올 수 있다. IPCC의 GCM모형 평가결과는 대체로 “현
+재의 기후모형들은 관측된 대규모 (전 지구 혹은 대륙규모) 기
+후의 여러 양상들을 비교적 정확히 예측할 수 있지만 지역규모 
+예측에서는 정확성이 떨어진다”고 지적하고 있다 (IPCC, 2001). 
+따라서 GCM 모형에서 예측한 기상자료를 한반도에 적용하기 
+위해서 역학적방법과 또는 통계학적방법을 이용하고 있다. 기
+상연구소에서 분석한 MM5의 경우 역학적 방법을 이용하여 상
+세화한 결과이다. 본 연구에서 선택된 MIROC3.2의 경우 2가지 
+통계학적 상세화 방법을 적용하고 비교 분석 하였다. 통계적 상
+세화 방법에는 Diaz-Nieto와 Wilby (2005)가 사용했던 방법인 
+CF (Change Factor)방법과 무강우일과 (dry day) 강우일 (wet 
+day)이 지속된 일수에 대한 준경험적분포형 (semi-empirical 
+distrbution)을 이용하여 분석하는 LARS-WG방법을 이용하여 
+상세화 하였다.
+CF방법은 과거 30년 (1979～2008) 기상자료들을 관측소별
+로 월평균 자료로 추출하고 GCM 시나리오별 미래 기상자료들 
+또한 2020s (2011～2040), 2050s (2041～2070), 2080s (2071 
+～2100)의 월평균 자료를 추출하였다. 이 월평균 과거 자료와 
+미래자료간의 차이 값을 비율로 분석하여 과거 30년 평균 강우
+량 자료와 가장 비슷한 년도는 2005년도이며, 2005년도를 기
+준년도로 산정하여 각 기상자료에 미래 기상자료를 재추출하였
+다.
+LARS-WG방법의 경우 단일 사이트에서의 기상변수 모의를 
+위한 모형이다. 통계학적 기상 발생기의 개발 목적은 첫째, 확
+실한 통계적 특성과 함께 총체적 기후발생을 모의하는 것을 준
+비하는 것을 의미한다. 이는 수문학적 또는 농업적 적용에서 위
+해성 평가를 위해 오랫동안 사용되어 왔다. 두 번째 목적은 미
+계측 지역에 기후발생 모의에 있다. GCM 결과는 기후변화 시
+나리오와 같이 시공간적인 저해상도의 문제로 직접적으로 사용
+할 수 없는 경우가 많다. 그러나 기후 발생기는 기후요소와 평
+균 기후의 변화를 합쳐 일단위 multiple-year 기후변화 시나리
+오 생산이 가능하다.
+5. 추가 기상자료 생성 프로그램 구축 및 검정
+잠재증발산량 산정은 강우량, 온도, 습도, 일조시간, 증발량, 
+풍속 6가지 자료가 필요하지만 기후모형에 의해서는 강우량과 
+기온만이 생성되므로 나머지 기상자료를 생성하기 위해 기상자
+료 생성 프로그램을 구축하고 프로그램의 신뢰성을 확인하기 위
+해 프로그램에서 모의된 기상자료와 실제 관측자료와의 상관분
+석을 실시하였다. 그 결과는 Table 3과 같다.
+프로그램의 자료검색 범위는 춘천관측소 1970～2003년 (34
+년)까지의 기상자료를 이용을 하고 미래 기상자료 생성은 2004 
+～2008년 (5년)까지 생성 후 과거 실제 관측자료와 비교하였
+다. 상관계수의 결과 범위는 0.2 이하는 ‘매우 낮음’, 0.2～0.5
+는 ‘낮음’, 0.5～0.8은 ‘높음’, 0.8～1.0은 ‘매우 높음’ 으로 구
+분하여 분석하였다 (Yun, 2010).
+그 결과 상관계수에서 4개의 기상자료 중 증발량이 0.877로 
+매우 높은 상관성을 보였으며, 습도, 일조시간, 풍속은 각각 
+0.702, 0.611, 0.655의 상관성을 보였다. 따라서 본 연구에서 
+구축된 기상자료 생성 프로그램은 4가지 모두 신뢰성이 높은 것
+으로 나타나 기상자료생성은 적합한 것으로 사료된다.
+6. 기상자료 생성
+가. MM5 기상자료 생성
+MM5의 기상자료에 대하여 편이보정을 실시한 강우량과 기
+온자료를 이용하여 물수지에 필요한 4가지 (습도, 일조시간, 증
+발량, 풍속)기상자료에 대해 프로그램을 이용하여 생성하였다. 
+Table 3 Correlation between simulated and observed data
+Year
+Humidity Sunshine
+hours
+Evaporation
+Wind
+speed
+Correlation coefficient
+2004
+0.611 
+0.563 
+0.871 
+0.530 
+～0.2 : Very Low
+0.2～0.5 : Low
+0.5～0.8 : High
+0.8～1.0 : Very High
+2005
+0.810 
+0.564 
+0.852 
+0.677 
+2006
+0.594 
+0.804 
+0.941 
+0.684 
+2007
+0.652 
+0.551 
+0.890 
+0.774 
+2008
+0.842 
+0.574 
+0.831 
+0.610 
+Average
+0.702 
+0.611 
+0.877 
+0.655 
+Fig. 1 Comparison of average climate data using MM5 in 8 regions during baseline periods (1979～2008) and 2010～2100 year 
+Fig. 2 Comparison of average climate data using CF in 8 regions during baseline periods(1979～2008) and 2010～2100 year
+Fig. 3 Comparison of average climate data using LARS-WG in 8 regions during baseline periods (1979～2008) and 2010～
+2100 year
+생성한 자료는 30년 단위로 2020s (2010～2040), 2050s (2041 
+～2070), 2080s (2071～2100)로 평균내어 기준년도인 1985s 
+(1979～2008)와 비교하였다.
+생성된 기상자료를 분석한 결과 습도의 경우 포항지역이 2020s
+에 57.0 %로 가장 낮게 나타났으며, 서산지역이 2080s에 74.3 
+%로 가장 높게 나타났다. 일조시간은 전주지역이 2020s에 5.1 
+hr로 가장 낮게 나타났으며, 포항지역이 2080s에 6.6 hr로 가
+장 높게 나타났다. 증발량은 춘천지역이 2020s에 2.5 mm로 
+가장 낮게 나타났으며, 포항지역이 2080s에 4.6 mm로 가장 높
+게 나타났다. 풍속은 춘천지역이 2020s, 2080s에 1.1 m/s로 가
+장 낮게 나타났으며, 여수지역이 2020s 에 4.0 m/s로 가장 높
+게 나타났다. 
+나. CF 기상자료 생성
+MIROC3.2의 기상자료에 대하여 편이보정을 실시하고 CF방
+법을 이용하여 생성된 강우량과 기온자료를 MM5와 같은 방식
+으로 분석하였다.
+습도의 경우 포항지역이 2020s에 55.5 %로 가장 낮게 나타
+났으며, 서산지역이 2080s 에 73.9 %로 가장 높게 나타났다. 
+일조시간은 전주지역이 2020s에 5.1 hr로 가장 낮게 나타났으
+며, 포항지역이 2080s에서 7.3 hr로 가장 높게 나타났다. 증발
+량은 전주지역이 2020s에 3.0 mm로 가장 낮게 나타났으며, 포
+항지역이 2080s에 4.8 mm로 가장 높게 나타났다. 풍속은 춘
+천지역이 2020s, 2050s, 2080s에서 1.3 m/s로 가장 낮게 나
+타났으며, 여수지역이 2020s에 3.8 m/s로 가장 높게 나타났다. 
+다. LARS-WG 기상자료 생성
+MIROC3.2의 기상자료에 대하여 편이보정을 실시하고 LARS- 
+WG방법을 이용하여 생성된 강우량과 기온자료를 MM5와 같
+은 방식으로 분석하였다.
+습도의 경우 포항지역이 2020s에 67.4 %로 가장 낮게 나타
+났으며, 서산지역이 2080s에 73.9 %로 가장 높게 나타났다. 일
+조시간은 수원지역이 2050s에 5.0 hr로 가장 낮게 나타났으며, 
+포항지역이 2080s에서 6.7 hr로 가장 높게 나타났다. 증발량
+은 전주지역이 2020s에 2.9 mm로 가장 낮게 나타났으며, 포
+항지역이 2080s에 4.6 mm로 가장 높게 나타났다. 풍속은 춘
+천지역이 2020s, 2050s, 2080s에서 1.4 m/s로 가장 낮게 나
+타났으며, 여수지역이 2020s, 2050s에 3.7 m/s로 가장 높게 
+나타났다. 
+라. 상세화 기법 선정
+우리나라의 기상관측소 76개소에 대한 30년 (1979∼2008) 
+평균 기온을 보면 연 평균기온은 10∼17 ℃이며, 가장 무더운 
+달인 8월은 23∼28 ℃, 5월은 16∼19 ℃, 10월은 11∼19 
+℃, 가장 추운 달인 1월은 -6∼7 ℃이다. 연 강우량은 중부지
+방은 1,100∼1,500 mm, 남부지방은 1,000∼1,800 mm로 경
+북지역은 1,100∼1,600 mm이며, 경남해안 일부지역은 1,800 
+mm 정도, 제주도지방은 1,400∼1,905 mm이다. 계절적으로는 
+6월부터 8월 중 연간 강우량의 60 % 이상이 집중적으로 내리
+고 연속 강우일수도 10일 이상인 때도 있다. 또한 8월 하반기
+에는 고온다습 즉, 온도가 높으면서 습도도 높은 것이 특징이
+다. 풍속은 일반적으로 겨울에 북서풍, 여름에는 남서풍이 강
+하며, 계절에 따른 변화가 뚜렷하다. 9월과 10월은 바람이 비
+교적 약하나, 해안지방에는 해륙풍의 영향이 뚜렷하다. 습도는 
+7, 8월이 높아 전국 평균 80 % 정도이고, 9, 10월은 70 %내
+외이다.
+본 연구에서 3가지 상세화 방법을 이용하여 생성된 강우량과 
+기온자료를 이용하여 물수지분석에 필요한 4가지 기상자료를 추
+가로 생성하였으며, 그 결과 3가지 상세화 방법에서 우리나라 
+강우 특성과 상이한 결과가 도출되었다.
+MM5의 경우 7월과 8월이 기준년도에 비해 낮게 예측되었고 
+기온은 8개 지역 모두 기준년도에 비해 상반기에는 낮게 예측
+되었으며 하반기에는 높게 예측되어 관측 자료와의 다른 경향
+으로 나타났다. 또한 CF방법의 경우 포항지역과 전주지역이 
+기준년도와 2005년도의 차이가 많이 나는 것으로 나타나 정확
+성이 낮은 것으로 판단된다.
+반면, LARS-WG는 잠재증발산량과 필요수량에 가장 큰 영향
+을 미치는 기온과 강우량에 대하여 각 지역별 기상 관측값과 상
+세화 방법에서 생성된 값이 가장 비슷한 경향으로 예측되어 본 
+연구에서는 LARS-WG를 이용하여 생성된 기상자료를 이용하
+여 필요수량을 산정하는 것으로 하였다.
+7. 물수지분석
+저수지나 유역에서 일정 기간의 유입량과 유출량을 가지고 저
+류량의 시간적 변화를 계산하는 것을 물수지분석이라 한다. 물
+수지분석은 주로 저수지 등의 계획용량을 결정하기 위하여 실시
+하며 시설물의 규모를 가정하고 이 시설물에서의 유입량과 유
+출량 및 시설물의 특성자료 등의 영향인자를 모형화하여 시설물
+의 거동을 살펴봄으로서 시설물이 적정하게 운영되고 사용되어
+질 것인지를 사전에 파악할 수 있으며 예상되는 문제점도 도
+출해 낼 수 있다. 따라서 본 연구에서는 농촌용수설계에서 필
+요수량 산정 등 농업용 저수지의 물수지분석에 적합한 수리시
+설물 모의조작 시스템인 HOMWRS (Hydrological Operation 
+Model Water Resources System)를 이용하여 농업용저수지 
+필요수량 변화를 예측하였다 (RRI, 2001).
+본 연구에서는 물수지변화에 대한 기준년도를 상세화과정에 
+적용한 2005년을 기준년도로 선정하고 2020s, 2050s, 2080s
+에 대한 필요수량 변화를 비교하였다. 또한 필요수량 산정에서
+는 6개 기상자료가 필요하므로 강우와 기온을 제외한 나머지 4
+개의 기상자료 (습도, 증발량, 일조시간, 풍속)는 과거자료와 유
+사한 LARS-WG를 이용하여 생성된 기상자료를 적용하여 분
+석하였다.
+III. 결과 및 고찰
+1. 증발산량 산정 결과
+필요수량 산정을 위해 LARS-WG 방법의 기상자료를 이용하
+여 각 지역별 년평균 잠재증발산량과 실제증발산량을 산정하였
+으며, 그 결과는 Table 4와 같다.
+Chung (2010)은 MM5 지역기후모형을 이용하여 잠재증발산
+량을 예측한 결과 2020s, 2050s, 2080s 모두 4 %, 8 %, 14 
+% 증가하는 것으로 예측한바 있으며, 본 연구에서도 그와 비슷
+한 결과를 나타냈었다. 각 지역별로는 청주지역이 2020s, 2050s, 
+2080s 모두 1985s의 682 mm보다 2 %, 7 %, 11 % 증가로 
+가장 낯은 값을 보였으며, 가장 높은 지역은 포항지역으로 33 %, 
+38 %, 42 %가 증가하는 것으로 나타났다. 
+각 지역별 실제증발산량은 2020s에서 청주지역이 1985s의 
+738 mm보다 4 % 증가한 768 mm로 가장 작게 증가하는 것
+으로 나타났으며, 가장 많이 증가하는 지역은 포항지역이 1985s
+의 746 mm보다 22 % 증가한 951 mm로 나타났다. 2050s는 
+진주지역이 1985s의 664 mm보다 5 % 증가한 696 mm로 가
+장 작게 증가하는 것으로 나타났으며, 가장 많이 증가하는 지
+역은 포항지역이 1985s의 746 mm보다 24 % 증가한 979 mm
+Table 4 Regional analysis of potential evapotranspiration 
+and actual evapotranspiration
+Region
+Potential evapotranspiration 
+(mm)
+Actual evapotranspiration 
+(mm)
+1985s 2020s 2050s 2080s 1985s 2020s 2050s 2080s 
+Chun-cheon
+610.8 650.1 672.5 674.8 658.7 712.8 737.9 741.0 
+Su-won
+629.0 661.1 652.7 670.5 683.7 746.3 728.4 745.1 
+Jin-ju
+617.4 638.6 640.7 667.3 664.2 697.8 695.8 728.8 
+Po-hang
+699.6 879.4 903.6 923.1 745.7 950.8 978.6 1,004.0 
+Yeo-su
+717.9 777.8 799.5 839.2 779.5 836.2 861.3 916.3 
+Jeon-ju
+637.7 671.3 688.1 707.7 684.7 732.3 749.6 778.2 
+Seo-san
+635.6 678.8 688.7 706.6 689.7 754.6 761.3 785.6 
+Cheong-ju
+682.2 694.7 711.5 736.4 737.9 767.9 786.6 819.2 
+(a) Water requirement
+(b) Consumptive use
+(c) Effective rainfall
+Fig. 4 Crop water requirement using LARS-WG 
+로 나타났다. 2080s은 수원지역이 1985s의 684 mm보다 8 % 
+증가한 745 mm로 가장 작게 증가하는 것으로 나타났으며, 가
+장 많이 증가하는 지역은 포항지역이 1985s의 746 mm보다 
+26 % 증가한 1,004 mm로 나타났다.
+각 지역별 잠재증발산량의 변화는 여러 요인이 있을 수 있으
+나 작게 나타난 청주지역의 경우 기온과 증발량, 풍속이 다른 
+지역에 비해 낮은 것이 가장 큰 원인 것으로 판단되며, 가장 
+높게 나타난 포항지역의 경우 기온과 증발량이 가장 높게 나타
+난 것이 가장 큰 원인인 것으로 판단된다. 
+2. 필요수량 산정 결과
+8개 지역에 대한 2020s, 2050s, 2080s의 필요수량은 모두 
+증가하는 것으로 나타났으며, 그 이유는 잠재증발산량 증가에 
+따른 필요수량도 증가하는 것으로 판단된다.
+가장 작게 증가한 지역은 청주지역이 2020s에서 1 % 증가
+하는 것으로 나타났으며, 가장 많이 증가한 지역은 진주 지역으
+로 2080s에서 27 % 증가하는 것으로 나탔다. 잠재증발산량이 
+작은 지역은 필요수량이 가장 작게 증가한 지역과 동일한 청주 
+지역으로 나타났으나 잠재증발산량이 가장 많이 증가한 지역은 
+포항지역 이였으나 필요수량에서는 진주지역으로 나타났다. 그 
+이유는 포항지역이 유효우량이 2020s, 2080s, 2050s,에서 각
+각 －1 %, 7 %, 15 %로 증가함에 따라 필요수량이 감소하였
+고, 진주지역의 경우 유효우량이 5 %, －11 %, 4 %로 감소
+하여 필요수량이 증가하는 것으로 판단된다.
+IV. 결
+론
+본 연구에서 기후변화에 따른 농업용수 필요수량 변화를 예측
+하기 위해 GCM 중ECHO-G와 MIROC3.2를 선정하였으며, ECHO 
+-G의 경우 우리나라 기상연구소에서 상세화한 MM5 자료를 이
+용하여 분석하였다. 필요수량 분석에 대한 불확실성을 최소화
+하기 위해 MM5와 MIROC3.2에 대한 편이보정을 실시하였다. 
+MIROC3.2의 경우 편이보정 된 자료를 CF방법과 LARS-WG방
+법을 이용하여 상세화 하여 미래 기상자료를 재추출하였다. 그
+중 필요수량에 많은 영향을 미치는 기온과, 강우량이 각 지역별 
+기상 관측값과 상세화 방법에서 생성된 값이 가장 비슷한 경향
+으로 예측된 LARS-WG를 이용하여 필요수량을 산정하였다.
+생성된 기상자료를 이용하여 물수지분석을 시행한 결과 전체
+적으로 잠재증발산량 및 필요수량이 증가하는 것으로 나타났다. 
+이는 기온증가로 인한 소비수량이 증가하고 강우량 또한 증가하
+는 것으로 예측되었으나 강우량이 기준년도에 비하여 6월～8월
+이 상당히 낮은 것이 가장 큰 영향을 주는 것으로 분석되었다.
+본 연구에서 분석된 결과는 어느 모형 및 상세화 방법이 적
+합하다고 단정하긴 어렵다. MM5와 MIROC3.2에 대하여 과거 
+기상자료를 이용하여 편이보정, MIROC3.2의 경우 통계적 방법
+인 CF와 LARS-WG방법을 이용한 상세화 기법 등에 불확실성
+이 내포되어 있다. 따라서 기후변화에 따른 농업수자원 영향평
+가를 위해서는 상세화 및 기상자료 생성에 대한 추가적인 연구
+가 필요할 것으로 사료된다.
+본 연구는 2010년도 농림수산식품부 농촌개발시험연구사
+업비 및 한국연구재단의 지원으로 수행된 기초연구사업 (No. 
+2010-0007884)의 결과임.
+REFERENCES
+1.
+Alcamo, J., Do¨ ll, P., F. Kaspar and S. Siebert, 
+1997. Global change and global scenarios of water 
+use and availability: an application of WaterGAP 1.0. 
+Report. A9701, Center for Environmental Systems 
+Research, University of Kassel, Germany.
+2.
+Bae, D. h., I. W. Jung, and W. T. Kwon, 2007. 
+Generation of high resolution scenarios for climate 
+change impacts on water resources (Ⅰ): Climate 
+scenarios on each sub-basins. Journal of Korea Water 
+Resources Association 40(3): 191-201 (in Korean).
+3.
+Chung, S. O., 2009. Climate change impacts on 
+paddy irrigation requirement in the Nakdong River 
+basin. Journal of the Korean Society of Agricultural 
+Engineers 51(2): 35-44 (in Korean).
+4.
+Chung, S. O., 2010. Simulating evapotranspiration and 
+yield responses of rice to climate change using FAO- 
+AquaCrop. Journal of the Korean Society of Agricultural 
+Engineers 52(3): 57-64 (in Korean).
+5.
+Diaz-Nieto J, Wilby R. L., 2005. A comparison of 
+statistical downscaling and climate change factor 
+methods: impacts on low flows in the river Thames. 
+United Kingdom. Climatic Change, 69: 245-268. 
+6.
+Hong, E. M., J. Y. Choi, S. H. Lee, S. H. Yoo and M. S. 
+Kang, 2009. Estimation of paddy rice evapotranspiration 
+considering climate change using LARS-WG. Journal 
+of the Korean Society of Agricultural Engineers 51(3): 
+25-35 (in Korean).
+7.
+IPCC, 2001. Climate change 2001: The scientific basis. 
+Contribution of working group I to the third assessment 
+report of the intergovernmental Panel on climate change. 
+Cambridge University Press, Cambridge, U.K.
+8.
+IPCC, 2007. Climate change 2007: The physical science 
+basis. Contribution of working group I to the forth 
+assessment report of the intergovernmental Panel on 
+climate change. Cambridge University Press, Cambridge, 
+U.K and New York, NY, USA.
+9.
+Jung, I. W., D. H. Bae, and E. S. Im, 2007. 
+Generation of high resolution scenarios for climate 
+change impacts on water resources (Ⅱ): Runoff 
+scenarios on each sub-basins. Journal of Korea Water 
+Resources Association 40(3): 205-214 (in Korean).
+10. Korea Agriculture and Rural Infrastructure Corporation, 
+2001. Hydrological Operation Model Water Resources 
+System(manual) Ver.2.10. Uiwang, Gyeonggi: Korea 
+Agriculture and Rural Institute Corporation.
+11. Yun, D. K., 2010. Climate change impacts on paddy 
+water requirement. Ph. D. dissertation, Kyungpook 
+National University (in Korean).
